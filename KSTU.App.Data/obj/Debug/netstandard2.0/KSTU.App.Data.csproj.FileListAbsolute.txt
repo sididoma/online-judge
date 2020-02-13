@@ -1,0 +1,8 @@
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/bin/Debug/netstandard2.0/KSTU.App.Data.deps.json
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/bin/Debug/netstandard2.0/KSTU.App.Data.dll
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/bin/Debug/netstandard2.0/KSTU.App.Data.pdb
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/obj/Debug/netstandard2.0/KSTU.App.Data.csprojAssemblyReference.cache
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/obj/Debug/netstandard2.0/KSTU.App.Data.AssemblyInfoInputs.cache
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/obj/Debug/netstandard2.0/KSTU.App.Data.AssemblyInfo.cs
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/obj/Debug/netstandard2.0/KSTU.App.Data.dll
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.Data/obj/Debug/netstandard2.0/KSTU.App.Data.pdb

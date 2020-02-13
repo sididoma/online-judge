@@ -1,0 +1,8 @@
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/bin/Debug/netstandard2.0/KSTU.Judge.Data.deps.json
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/bin/Debug/netstandard2.0/KSTU.Judge.Data.dll
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/bin/Debug/netstandard2.0/KSTU.Judge.Data.pdb
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/obj/Debug/netstandard2.0/KSTU.Judge.Data.csprojAssemblyReference.cache
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/obj/Debug/netstandard2.0/KSTU.Judge.Data.AssemblyInfoInputs.cache
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/obj/Debug/netstandard2.0/KSTU.Judge.Data.AssemblyInfo.cs
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/obj/Debug/netstandard2.0/KSTU.Judge.Data.dll
+/home/sd/Workspace/CSharp/online-judge/KSTU.Judge.Data/obj/Debug/netstandard2.0/KSTU.Judge.Data.pdb

@@ -1,0 +1,11 @@
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/bin/Debug/netstandard2.0/KSTU.App.BLL.deps.json
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/bin/Debug/netstandard2.0/KSTU.App.BLL.dll
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/bin/Debug/netstandard2.0/KSTU.App.BLL.pdb
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/obj/Debug/netstandard2.0/KSTU.App.BLL.csprojAssemblyReference.cache
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/obj/Debug/netstandard2.0/KSTU.App.BLL.AssemblyInfoInputs.cache
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/obj/Debug/netstandard2.0/KSTU.App.BLL.AssemblyInfo.cs
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/obj/Debug/netstandard2.0/KSTU.App.BLL.dll
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/obj/Debug/netstandard2.0/KSTU.App.BLL.pdb
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/bin/Debug/netstandard2.0/KSTU.App.Data.dll
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/bin/Debug/netstandard2.0/KSTU.App.Data.pdb
+/home/sd/Workspace/CSharp/online-judge/KSTU.App.BLL/obj/Debug/netstandard2.0/KSTU.App.BLL.csproj.CopyComplete
